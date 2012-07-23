@@ -1,0 +1,3 @@
+[submodule "CDataStructures"]
+	path = CDataStructures
+	url = git@github.com:danieltahara/CDataStructures.git
